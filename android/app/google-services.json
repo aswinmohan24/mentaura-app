@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "261321399158",
+    "project_id": "mentaura-app",
+    "storage_bucket": "mentaura-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261321399158:android:a905ec2444838b4da03857",
+        "android_client_info": {
+          "package_name": "com.example.mentaura_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261321399158-q7usg8mvpbdhodrkkr41h2s2q8fvrtma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mentaura_app",
+            "certificate_hash": "e38b20e08c1f14780fd55fae2afd013fe1de237d"
+          }
+        },
+        {
+          "client_id": "261321399158-7d3u68vlbtep9gls32rek5q1fbtc9q7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb-PPi6l84LQOqPtWHvvvzHGAqk9uHX_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261321399158-178vnnjii26crdkqfrr8emhmiebvrl4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "261321399158-gtqtddl0n95iegsmp62mnuq8aa72s9j7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mentauraApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
